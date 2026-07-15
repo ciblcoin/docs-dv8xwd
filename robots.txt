@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-g7cyx5.cluz.com.br/sitemap.xml
